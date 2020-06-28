@@ -1,0 +1,37 @@
+body{
+    background-image: url(assets/languages.jpg);
+    background-size: cover;
+}
+
+h1{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    align-items:center;
+    justify-content:center;
+    margin-top: 5px;
+
+    background-color: #1c88b470;
+    color: whitesmoke;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #b7b0b0;
+    border-radius: 20px;
+
+}
+
+.content{
+    background-color: #151a1baa;
+    color: white;
+    text-align: left;
+    font-family: 'Eczar', serif;
+    margin-top: 50px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: #b7b0b0;
+    border-width: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
